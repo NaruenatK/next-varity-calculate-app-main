@@ -54,7 +54,7 @@ export default function Page() {
         <div className="w-full border border-gray-300 flex flex-col items-center p-8 rounded-xl">
 
           <Image src={bmr} alt="bmr" width={70} className="mx-auto"></Image>
-          <h1 className="text-lg text-blue-800 font-bold mt-1 mb-5">วัดค่า BMR</h1>
+          <h1 className="text-lg text-blue-800 font-bold mt-1 mb-5">วะค่า BMR</h1>
 
           <div className="w-full flex flex-col mb-3">
             <label className="mb-1">เพศ</label>
